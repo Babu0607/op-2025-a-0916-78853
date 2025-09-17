@@ -27,7 +27,7 @@ SuperHero1.Name = "Tony Stark";
 SuperHero1.Age = 30;
 
 SuperHero SuperHero2 = new SuperHero();
-SuperHero2.Alias = "Spider man";
+SuperHero2.Alias = "Spider Man";
 SuperHero2.Name = "Peter Parker";
 SuperHero1.Age = 25;
 
